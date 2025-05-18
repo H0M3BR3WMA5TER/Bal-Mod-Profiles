@@ -13,6 +13,9 @@ Just all neat little additions.
 Things I need to do:
 - Find a suitable global variable to use with ModSwap.cmd
 - Change ModSwap.cmd to ModSwap.bat because its annoying me that both aren't the same extension
+
+Update: I'll be doing these and making another release as of later today with the above issues fixed
+
 - Find a way to use more than 2 mod profiles
 - Impliment a metadata system to add unique naming to mod profiles
 - Find a way to hook it into Balatro on Steam launch without making the script into an exe named Balatro.exe and putting it in the steam folder and renaming the original Balatro.exe
